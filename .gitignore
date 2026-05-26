@@ -5,3 +5,6 @@ data/
 # Ignore documentation folders
 documentation/
 */documentation/
+
+# Ignore Claude
+.claude
