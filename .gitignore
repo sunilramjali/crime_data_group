@@ -1,7 +1,0 @@
-# Ignore data folders
-data/
-*/data/
-
-# Ignore documentation folders
-documentation/
-*/documentation/
